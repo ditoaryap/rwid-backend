@@ -1,0 +1,21 @@
+{
+  "name": "rwid-nodejs",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Projek Node.Js di RWID",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ditoaryap/rwid-nodejs.git"
+  },
+  "author": "Dito",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ditoaryap/rwid-nodejs/issues"
+  },
+  "homepage": "https://github.com/ditoaryap/rwid-nodejs#readme"
+}
